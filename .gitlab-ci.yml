@@ -1,0 +1,36 @@
+image: node:12.16.3
+
+cache:
+  untracked: true
+  paths:
+    - node_modules/
+
+stages:
+  - setup
+  - build
+  - deploy
+
+setup:
+  stage: setup
+  script: npm install gatsby-cli netlify-cli -g
+  only:
+    - master
+
+build:
+  stage: build
+  script:
+    - gatsby production
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
+
+deploy:
+  stage: deploy
+  script:
+    - netflify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_AUTH_TOKEN --prod
+  dependencies:
+    - build
+  only:
+    - master
