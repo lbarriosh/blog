@@ -12,13 +12,15 @@ stages:
 
 setup:
   stage: setup
-  script: npm install gatsby-cli netlify-cli -g
+  script:
+    - npm ci
   only:
     - master
 
 build:
   stage: build
   script:
+    - npm install -g gatsby-cli
     - gatsby build
   artifacts:
     paths:
@@ -29,7 +31,8 @@ build:
 deploy:
   stage: deploy
   script:
-    - netflify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_AUTH_TOKEN --prod
+    - npm install -g netlify-cli
+    - netlify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_AUTH_TOKEN --prod
   dependencies:
     - build
   only:
