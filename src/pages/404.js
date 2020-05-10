@@ -9,9 +9,18 @@ const NotFoundPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="404: Not Found" />
-      <h1>Not Found</h1>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      <SEO title="Page not found" />
+      <h1 class="notfound-header">404</h1>
+      <h3 class="notfound-text">Nothing to see here!</h3>
+      <p>The page you are looking for doesn&#39;t exist. This was probably me 
+        relocating a page and forgetting to update the links.</p>
+      <p>However, if you are doing something you shouldn't, bear in mind that this page
+        generates zero revenue and that you can put your time to a better use.</p>
+      <p>Anyway, since you are stuck here, let me offer you a way out:</p>
+      <ul>
+        <li>go back to the <a href="/">homepage</a></li>
+        <li>learn more <a href="/about">about me</a></li>
+      </ul>
     </Layout>
   )
 }
