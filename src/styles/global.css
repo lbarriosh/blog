@@ -1,0 +1,12 @@
+.notfound-header {
+    color: #555;
+    font-family: monospace;
+    text-align: center;
+    font-size: 7.5rem;
+    font-weight: 500;
+}
+
+.notfound-text {
+    text-align: center;
+    margin-top: 0;
+}
