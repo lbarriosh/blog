@@ -10,3 +10,7 @@
     text-align: center;
     margin-top: 0;
 }
+
+ul {
+    list-style-position: inside;
+}

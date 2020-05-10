@@ -65,7 +65,7 @@ module.exports = {
         short_name: `Luis Barrios`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#ef5252`,
         display: `minimal-ui`,
         icon: `content/assets/flame.png`,
       },
