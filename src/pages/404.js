@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -18,8 +18,8 @@ const NotFoundPage = ({ data, location }) => {
         generates zero revenue and that you can put your time to a better use.</p>
       <p>Anyway, since you are stuck here, let me offer you a way out:</p>
       <ul>
-        <li>go back to the <a href="/">homepage</a></li>
-        <li>learn more <a href="/about">about me</a></li>
+        <li>go back to the <Link to={`/`}>home page</Link></li>
+        <li>learn more <Link to={`/about`}>about me</Link></li>
       </ul>
     </Layout>
   )
