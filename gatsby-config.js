@@ -77,6 +77,14 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    `gatsby-plugin-offline`
+    `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `@pauliescanlon/gatsby-remark-sticky-table`
+        ],
+      },
+    }
   ],
 }
