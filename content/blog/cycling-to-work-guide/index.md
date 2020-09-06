@@ -16,13 +16,14 @@ it useful.
 ## Why cycle to work?
 
 According to my experience, there are three reasons:
-- cycling to work is **a great time saver**, especially if the morning traffic is slow in 
+
+* cycling to work is **a great time saver**, especially if the morning traffic is slow in
 your area. To help you put things in perspective, cycling to work saves me 45 minutes a day on average.
 And since you are doing cardio as you cycle, you will spend less time at the gym.
-- you **won't need to rely on schedules to commute**. Leaving home at the right time to avoid
+* you **won't need to rely on schedules to commute**. Leaving home at the right time to avoid
 a traffic jam, missing the last train or waiting for 15 minutes at a bus stop will become 
 a thing of the past.
-- **it's dirt cheap**. To give you an example, after I stopped using the public transport my
+* **it's dirt cheap**. To give you an example, after I stopped using the public transport my
 simple, brand new bicycle paid for itself in three months. Had I been driving to work, this
 would have happened even earlier.
 
@@ -30,8 +31,8 @@ would have happened even earlier.
 
 ### Learn if you are eligible for a cycle-to-work scheme
 
-In [Ireland](http://www.cyclingireland.ie/page/disciplines/advocacy/bike-to-work-scheme) and the 
-[UK](https://www.gov.uk/government/publications/cycle-to-work-scheme-implementation-guidance), 
+In [Ireland](http://www.cyclingireland.ie/page/disciplines/advocacy/bike-to-work-scheme) and the
+[UK](https://www.gov.uk/government/publications/cycle-to-work-scheme-implementation-guidance),
 you can spend up to 1000 euro/pounds on a new bicycle, clothing and accessories _tax free_.
 If you are planning to buy a new bicycle, ask your employer to find out if you are eligible.
 
@@ -42,7 +43,7 @@ The initial investment is next to nothing, and you won't have to worry about the
 
 If **you already have a bike**, **have it serviced before hitting the roads**. Most mechanics will
 charge you between 50 and 60 Euro, and you will know that all the parts in your bike are 
-properly tightened and that your gears -and most importantly- your brakes and tyres are in good,
+properly tightened and that your gears -and most importantly* your brakes and tyres are in good,
 working condition.
 
 If **you are buying a bike**, **get a simple one**. You will only need a decent range of gears 
@@ -70,19 +71,18 @@ damage to your bike and theft too (i.e. [Bikmo](https://bikmo.com/)).
 ### Get the essential accessories (only if you ride your own bike)
 
 In general, keeping thieves away from your bike is a good idea. You should be able to find **a good 
-quality D-lock** (like the [Kryptonite Evolution](https://amzn.to/2ABxDUV)) in the 50 to 60 Euro range.
+quality D-lock** in the 50 to 60 Euro range.
 
 Second, you will have to pump air into the tyres regularly. Bringing the 
-pressure up to the recommended value takes _a lot_ of effort, and that's where a **floor pump** comes in handy. Take a look at [my tall pump](https://amzn.to/2X2J6V4) and at my [compact pump](https://amzn.to/3677Krw) if you are looking for some recommendations.
+pressure up to the recommended value takes _a lot_ of effort, and that's where a **floor pump** comes in handy.
 
 Third, your chain needs frequent lubrication, especially in wetter climates. 
-A [tin of cleaning spray](https://amzn.to/3cA3Vh7) and some [wet lube](https://amzn.to/2Td9nz0) will
+A tin of **cleaning spray** and some **wet lube** will
 last _ages_ and will keep your bike riding nicely.
 
-Last, but not least, you will need a [light set](https://amzn.to/3bB5Z7n) to stay visible on the road in 
-the darker evenings, a [multitool](https://amzn.to/36dbvfd) to tighten the bolts on your bike and finally
-a [puncture repair kit](https://amzn.to/2ZbICPd) and a 
-[spare tube](https://www.amazon.co.uk/gp/search?ie=UTF8&tag=lbarrios-21&linkCode=ur2&linkId=476b2ca26302fe1a45b5b5a5ebbaac63&camp=1634&creative=6738&index=sports&keywords=continental tube) to fix a puncture that you will inevitably get.
+Last, but not least, you will need a **light set** to stay visible on the road in 
+the darker evenings, a **multitool** to tighten the bolts on your bike and finally
+a **patch kit** and a **spare tube** to fix a puncture that you will inevitably get.
 
 ## How can I start cycling to work?
 
@@ -90,20 +90,20 @@ a [puncture repair kit](https://amzn.to/2ZbICPd) and a
 
 The first weeks are always challenging. Here are five tips that should point you in the right direction:
 
-- **plan your route ahead of time and give it a go on a weekend**. The roads will be quieter, and you'll be able to take as much time as you need.  Don't be let down if you are slow or feel tired, 
+* **plan your route ahead of time and give it a go on a weekend**. The roads will be quieter, and you'll be able to take as much time as you need.  Don't be let down if you are slow or feel tired, 
 we've all been there.
-- **keep the same pace**. Be patient: you won't be racing anyone in your commute, and you should choose 
+* **keep the same pace**. Be patient: you won't be racing anyone in your commute, and you should choose 
 a pace you are comfortable with. If you are climbing up a hill, start at around 60% of your maximum 
 effort and keep it steady until you reach the summit.
-- **in the early days, only cycle for half of your commute**. If your workplace has a safe room where
+* **in the early days, only cycle for half of your commute**. If your workplace has a safe room where
 you can lock your bike, you can leave it overnight and take the public transport or get a lift home.
 Increase the distance as you go through the second week.
-- **go slower on your way to work, and change clothes if you need to**. When you do exercise you will
+* **go slower on your way to work, and change clothes if you need to**. When you do exercise you will
 inevitably sweat, but you can avoid most of it by going slower on your way to work. I'd also recommend
 you to change clothes on rainy days or simply if you don't want to get marks from the saddle in 
 your favourite trousers.
-- **track your efforts** to measure how your fitness improves over time.
-There are many free apps out there, but [Strava](https://www.strava.com/) is probably the best.
+* **track your efforts** to measure how your fitness improves over time.
+There are many free apps out there, but **Strava** is probably the best.
 
 ### How to be safer on the roads
 
@@ -115,26 +115,27 @@ There is a simple rule that will keep you safe:
 > assume that everybody else on the road is a moron and expect anything from them
 
 It amazes me how many good tips can be derived from this rule:
-- **don't cycle on the side of the road** as some drivers will be tempted to overtake you badly.
+
+* **don't cycle on the side of the road** as some drivers will be tempted to overtake you badly.
 Take your space instead.
-- **don't stay too close to a car/cyclist in front of you**: they can stop suddenly.
-- **always look twice** before making any turn or switching lanes.
-- **in junctions, make visual contact** with drivers and other cyclists to make sure they can see you.
-- **don't wear headphones**: you won't hear the threats coming at you.
-- **watch out for pedestrians**: they will usually cross the road as they please.
+* **don't stay too close to a car/cyclist in front of you**: they can stop suddenly.
+* **always look twice** before making any turn or switching lanes.
+* **in junctions, make visual contact** with drivers and other cyclists to make sure they can see you.
+* **don't wear headphones**: you won't hear the threats coming at you.
+* **watch out for pedestrians**: they will usually cross the road as they please.
 
 However, the rule above also has a counterpart:
 > don't be a moron yourself
 
 Among other things, you must:
-- **signal all your turns**, especially when you think there isn't anyone behind you.
-- **stop at red lights and junctions** to keep everyone safe.
-- **be kind to drivers and other cyclists**, especially to learners. Give them the space they need and 
-remember you are not racing anyone.
-- **cycle only on roads and designated lanes**. Sidewalks are _not_ bike lanes, and you can only 
-_walk_ on them.
-- **keep your lights on when it's dark**.
 
+* **signal all your turns**, especially when you think there isn't anyone behind you.
+* **stop at red lights and junctions** to keep everyone safe.
+* **be kind to drivers and other cyclists**, especially to learners. Give them the space they need and 
+remember you are not racing anyone.
+* **cycle only on roads and designated lanes**. Sidewalks are _not_ bike lanes, and you can only 
+_walk_ on them.
+* **keep your lights on when it's dark**.
 
 ## What should I know about bike maintenance?
 
@@ -143,14 +144,14 @@ _walk_ on them.
 If you spend some time maintaining your bike, it will ride nicely and its parts will last for
 much longer. Here is what you need to know:
 
-- **clean and lubricate your chain and clean the sprockets** every two weeks on dry weather, 
+* **clean and lubricate your chain and clean the sprockets** every two weeks on dry weather, 
 or weekly on wet weather. _Don't_ put WD-40 in your chain: it's a degreaser, and it will remove the oil instead.
-- **check the pressure of your tyres weekly**. If you cycle with underinflated tyres, you can get
+* **check the pressure of your tyres weekly**. If you cycle with underinflated tyres, you can get
 a puncture easily and damage the tyres and the rims.
-- **dry your frame and handlebars if you have been cycling in the rain**.
-- **take care of your brakes**. Keep the braking surfaces (i.e. rims, discs) clean, and tighten
+* **dry your frame and handlebars if you have been cycling in the rain**.
+* **take care of your brakes**. Keep the braking surfaces (i.e. rims, discs) clean, and tighten
 your brakes montly.
-- **clean up your bike once a month**. A cloth, a bucket of soapy water and a bucket of clean water will 
+* **clean up your bike once a month**. A cloth, a bucket of soapy water and a bucket of clean water will 
 do the trick. _Don't_ be tempted to powerwash your bike as you can strip the grease that protects the bearings.
 
 ### Let your local mechanic help you
@@ -167,7 +168,7 @@ you some awesome tricks!
 The table below contains the most common maintenance tasks, including how often they should be performed and a cost estimate for the parts. I hope this helps you on your next visit to your bike shop.
 
 | Task     | Approximate frequency | Cost of the parts (in Euro) |
-| -------- | --------------------- | ---------------------------------- |
+| -------- | --------------------- | --------------------------- |
 | Keep your brake surfaces clean | Every week | Negligible |
 | Clean up chain and sprockets | Twice a month | Negligible |
 | Adjust brakes | Once a month | Negligible |
@@ -189,5 +190,4 @@ The table below contains the most common maintenance tasks, including how often 
 
 Some of the topics mentioned on this page (i.e. buying a second-hand bike)
 would deserve several posts, but I think this should be enough for now.
-
-Feel free to contact me if anything needs changing, and see you on the road!
+See you on the road!
