@@ -6,7 +6,7 @@ module.exports = {
       summary: `a Software Engineer based in Dublin, Ireland.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://lbarrios.es`,
     social: {
       linkedin: `lbarriosh`,
       twitter: `lbarriosh`
