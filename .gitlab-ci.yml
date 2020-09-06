@@ -21,6 +21,7 @@ build:
   stage: build
   script:
     - npm install -g gatsby-cli
+    - npm install
     - gatsby build
   artifacts:
     paths:
